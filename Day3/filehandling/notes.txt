@@ -1,0 +1,3 @@
+welcome to python filehadling!
+this is asample filethis is appended line
+this is appended line
